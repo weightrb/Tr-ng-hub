@@ -19,7 +19,7 @@ getgenv().Config = {
         ["Zoro Sword"] = false
     }, 
     ["Ui Theme"] = {
-        ["Background"] = "139756291389843",
+        ["Background"] = "124873581436430",
         ["Skip Button"] = "113079599736013",
         ["Reset Bounty Button"] = "118191900561814"
     },
